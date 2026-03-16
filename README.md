@@ -30,7 +30,7 @@ The following **stretch** functionality is implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="YOUR_GIF_LINK_HERE.gif" title="Video Walkthrough" width="800" alt="Video Walkthrough" />
+<img src="c:\Users\Izayah Rahming\Downloads\ezgif-67ab19e89b1d0269 (1).gif" title="Video Walkthrough" width="800" alt="Video Walkthrough" />
 
 ## Notes
 
